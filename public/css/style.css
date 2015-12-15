@@ -1,0 +1,90 @@
+
+html, body {
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+table, th, td {
+	margin-left: 5px;
+    border: 1px solid black;
+     border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+ul,h1{
+	background-image: url("../img/background1.png");
+}
+
+
+#container {
+width: inherit;
+height: inherit;
+color: black;
+font-family: Lucida Sans Unicode;
+ }
+
+ #inputArea2{
+ 	margin-left: 900px;
+ }
+
+ #playLetter2{
+ 	margin-left: 900px;
+ }
+
+ #pictureArea2{
+ 	margin-left: 900px;
+ }
+
+h1 {
+color: white;
+font-family: Lucida Sans Unicode;
+font-size: 60px;
+ }
+
+
+
+ h2 {
+ color: black;
+ font-family: Lucida Sans Unicode;
+ font-size: 20px;
+ }
+
+ #message {
+color:black;
+font-family: Lucida Sans Unicode;
+font-size: 80px;
+ -webkit-text-stroke-width: 2px;
+ -webkit-text-stroke-color: black;
+ }
+
+#inputArea {
+color: black;
+font-family: Lucida Sans Unicode;
+ }
+
+ #inputArea2 {
+color: white;
+font-family: Lucida Sans Unicode;
+font-size: 11px;
+margin-bottom: 0px;
+ }
+
+
+ul {
+background-color:black;
+}
+
+
+#test{background-color: black;
+	font-family: Lucida Sans Unicode;
+	font-size: 15px;
+	height:30px;
+	color: #CC0052;
+}

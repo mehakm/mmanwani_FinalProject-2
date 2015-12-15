@@ -1,0 +1,25 @@
+{
+  "name": "homework11",
+  "version": "1.0.0",
+  "description": "hw11",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "mmanwani",
+  "license": "ISC",
+  "dependencies": {
+    "Sentimental": "^1.0.1",
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "emoticons-js": "^2.0.0",
+    "express": "^4.13.3",
+    "mongodb": "^2.1.0",
+    "morgan": "^1.6.1",
+    "senti": "0.0.2",
+    "sentiment": "^1.0.2",
+    "sentiment-analysis": "^0.1.1",
+    "session": "^0.1.0",
+    "twitter": "^1.2.5"
+  }
+}
